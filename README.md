@@ -2,7 +2,7 @@
 A small browser extension to rename FoE tabs, give emoji notifications for finished productions and messages, and provide quick links to data sites for each world!
 
 ## Features
-1. Renames tabs from **Forge of Empires** to **worldID | worldName**, for example "**us26 | Angkor**
+1. Renames tabs from **Forge of Empires** to **worldID | worldName**, for example "**us26 | Angkor**"
 2. Adds emojis to the tab name for certain conditions:
     - ♻️ for a warning to refresh the tab (if open for >4 hours)
     - 📦 for finished productions
